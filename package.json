@@ -1,0 +1,103 @@
+{
+    "name": "ruzzy-theme",
+    "displayName": "Ruzzy Theme",
+    "description": "Color theme",
+    "publisher": "Ruzzy",
+    "license": "MIT",
+    "icon": "img/mesh-735_128x128.png",
+    "keywords": [
+        "theme",
+        "color-theme",
+        "dark",
+        "light",
+        "blue",
+        "orange",
+        "green",
+        "purple",
+        "red",
+        "yellow"
+    ],
+    "preview": false,
+    "version": "1.0.4",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "engines": {
+        "vscode": "^1.74.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ruzzy Theme Dark - Default",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ruzzy-color-theme-default.json"
+            },
+            {
+                "label": "Ruzzy Theme Dark - Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ruzzy-color-theme-blue.json"
+            },
+            {
+                "label": "Ruzzy Theme Dark - Orange",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ruzzy-color-theme-orange.json"
+            },
+            {
+                "label": "Ruzzy Theme Dark - Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ruzzy-color-theme-green.json"
+            },
+            {
+                "label": "Ruzzy Theme Dark - Purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ruzzy-color-theme-purple.json"
+            },
+            {
+                "label": "Ruzzy Theme Dark - Red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ruzzy-color-theme-red.json"
+            },
+            {
+                "label": "Ruzzy Theme Dark - Yellow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ruzzy-color-theme-yellow.json"
+            }
+        ],
+        "semanticTokenTypes": [
+            {
+                "id": "templateType",
+                "superType": "type",
+                "description": "A template type."
+            }
+        ],
+        "semanticTokenModifiers": [
+            {
+                "id": "native",
+                "description": "Annotates a symbol that is implemented natively"
+            },
+            {
+                "id": "function-call",
+                "description": "Annotates a function call"
+            }
+        ],
+        "semanticTokenScopes": [
+            {
+                "language": "python",
+                "scopes": {
+                    "functionParams": [
+                        "variable.parameter.function-call.python"
+                    ]
+                }
+            }
+        ]
+    },
+    "devDependencies": {
+        "prettier": "^2.8.3",
+        "prettier-plugin-multiline-arrays": "^1.1.3"
+    },
+    "packageManager": "yarn@3.3.1"
+}

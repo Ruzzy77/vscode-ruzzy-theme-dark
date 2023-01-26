@@ -1,10 +1,14 @@
 {
-  "prettier.configPath": ".prettierrc",
-  "search.exclude": {
-    "**/.yarn": true,
-    "**/.pnp.*": true
-  },
-  "cSpell.words": [
-    "peekview"
-  ]
+    "prettier.configPath": ".prettierrc",
+    "search.exclude": {
+        "**/.yarn": true,
+        "**/.pnp.*": true
+    },
+    "cSpell.words": [
+        "peekview",
+        "Ponti",
+        "Picton",
+        "Aluminium",
+        "Carbonara"
+    ]
 }

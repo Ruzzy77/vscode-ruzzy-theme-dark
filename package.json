@@ -1,8 +1,8 @@
 {
     "name": "ruzzy-theme",
     "displayName": "Ruzzy Theme",
-    "description": "Color theme",
-    "version": "1.0.5",
+    "description": "Simple, Dimmed Dark Theme with MacOS color accents",
+    "version": "1.0.6",
     "publisher": "Ruzzy",
     "license": "MIT",
     "icon": "img/mesh-735_128x128.png",
@@ -32,9 +32,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Ruzzy Theme Dark - Default",
+                "label": "Ruzzy Theme Dark - Gray",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Ruzzy-color-theme-default.json"
+                "path": "./themes/Ruzzy-color-theme-gray.json"
             },
             {
                 "label": "Ruzzy Theme Dark - Blue",

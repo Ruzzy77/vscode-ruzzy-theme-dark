@@ -2,6 +2,12 @@
 
 All notable changes to the "Ruzzy Theme" extension will be documented in this file.
 
+## [v1.0.6] - 2023-01-27
+
+- Modify `semanticTokenColors` to be more readable
+- Modify `symbolIcon` to be match with token colors
+- Add Gray theme
+
 ## [v1.0.5] - 2023-01-26
 
 ### Add omissions

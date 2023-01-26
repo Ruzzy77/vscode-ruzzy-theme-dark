@@ -1,15 +1,46 @@
 # Ruzzy Theme - Dark
 
+Simple, Dimmed Dark Theme for Visual Studio Code  
+Highlight colors are based on [Apple Developer](https://developer.apple.com/design/human-interface-guidelines/foundations/color/)'s UI Colors
+
 <br/>
 
-## :page_with_curl: For more information
+## 🖼 Screenshots
+
+### Interface
+
+![screenshot-interface](img/screenshots/screenshot-default.png?raw=true)
+
+|                    Blue                     |                      Green                      |
+| :-----------------------------------------: | :---------------------------------------------: |
+|  ![](img/screenshots/screenshot-blue.png)   |    ![](img/screenshots/screenshot-green.png)    |
+|                   Orange                    |                     Purple                      |
+| ![](img/screenshots/screenshot-orange.png)  |   ![](img/screenshots/screenshot-purple.png)    |
+|                     Red                     |                     Yellow                      |
+|   ![](img/screenshots/screenshot-red.png)   |   ![](img/screenshots/screenshot-yellow.png)    |
+|                   Default                   |          Default (with git decoration)          |
+| ![](img/screenshots/screenshot-default.png) | ![](img/screenshots/screenshot-default-git.png) |
+
+### Syntax Colors
+
+<p align="left">
+	<img src="img/codes/prime.png" width="500" alt="screenshot-code-prime">
+</p>
+
+<p align="left">
+    <img src="img/codes/stack.png" width="500" alt="screenshot-code-stack">
+</p>
+
+<br/>
+
+## 📃 For more information
 
 -   [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 -   [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-<br/><br/>
+<br/>
 
-## :flashlight: Semantic Hightlight Enabled
+## 🔦 Semantic Highlight Enabled
 
 This theme supports semantic highlight by default
 
@@ -24,12 +55,13 @@ Set `true` to enable semantic highlight
 
 ### Token Colors
 
--   Based on VSCode's default Dark+ theme
--   Based on VSCode Dark Plus Syntax theme
+-   Based on VSCode Default Dark+ Theme
+-   Based on [dark-plus-syntax](https://marketplace.visualstudio.com/items?itemName=dunstontc.dark-plus-syntax)
+-   Inspired by [Dark+ Material](https://marketplace.visualstudio.com/items?itemName=vangware.dark-plus-material)
 
-<br/><br/>
+<br/>
 
-## :art: UI Colors
+## 🎨 UI Colors
 
 -   Based on [Apple Developer](https://developer.apple.com/design/human-interface-guidelines/foundations/color/)'s UI Colors
 
@@ -93,26 +125,26 @@ Set `true` to enable semantic highlight
     </font>
 
 6.  MacOS Red
-    
-	<font size=2>
 
-	| Color     | Alpha       | Usage   |
-	| --------- | ----------- | ------- |
-	| `#ff453a` | `FF` : 100% | accent  |
-	| `#b33029` | `80` : 50%  | overlay |
+    <font size=2>
 
-	</font>
+    | Color     | Alpha       | Usage   |
+    | --------- | ----------- | ------- |
+    | `#ff453a` | `FF` : 100% | accent  |
+    | `#b33029` | `80` : 50%  | overlay |
+
+    </font>
 
 7.  MacOS Yellow
 
-	<font size=2>
+    <font size=2>
 
-	| Color     | Alpha       | Usage   |
-	| --------- | ----------- | ------- |
-	| `#ffd60a` | `FF` : 100% | accent  |
-	| `#b39607` | `80` : 50%  | overlay |
+    | Color     | Alpha       | Usage   |
+    | --------- | ----------- | ------- |
+    | `#ffd60a` | `FF` : 100% | accent  |
+    | `#b39607` | `80` : 50%  | overlay |
 
-	</font>
+    </font>
 
 <br/>
 
@@ -188,13 +220,6 @@ Set `true` to enable semantic highlight
 
 </font>
 
-<br/><br/>
+<br/>
 
 **Enjoy!**
-
-Package :
-
-`vsce package`
-
-if using yarn :
-`vsce package --no-yarn`

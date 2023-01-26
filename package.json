@@ -2,6 +2,7 @@
     "name": "ruzzy-theme",
     "displayName": "Ruzzy Theme",
     "description": "Color theme",
+    "version": "1.0.5",
     "publisher": "Ruzzy",
     "license": "MIT",
     "icon": "img/mesh-735_128x128.png",
@@ -18,10 +19,9 @@
         "yellow"
     ],
     "preview": false,
-    "version": "1.0.4",
     "repository": {
-        "type": "git",
-        "url": ""
+        "type": "github",
+        "url": "https://github.com/Ruzzy77/vscode-ruzzy-theme-dark"
     },
     "engines": {
         "vscode": "^1.74.0"

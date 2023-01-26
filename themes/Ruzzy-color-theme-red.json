@@ -64,11 +64,13 @@
         "list.focusForeground": "#ff453a",
         "list.inactiveFocusBackground": "#2c2c2ec0",
 
-        "list.hoverBackground": "#3a3a3cc0",
+        "list.highlightForeground": "#ff453a",
+        "list.focusHighlightForeground": "#ff453a",
+
+        "list.hoverBackground": "#2c2c2ec0",
         "list.hoverForeground": "#e5e5ea",
 
         "list.dropBackground": "#b3302980",
-        // "list.highlightForeground": "#e5e5ea",
 
         //////////////////////////////////////////////////////////////
 
@@ -79,6 +81,9 @@
 
         "banner.foreground": "#d1d1d6",
         "banner.background": "#2c2c2ec0",
+
+        "textLink.foreground": "#ff453ac0",
+        "textLink.activeForeground": "#ff453a",
 
         //////////////////////////////////////////////////////////////
 
@@ -141,6 +146,10 @@
         "editorRuler.foreground": "#2c2c2e55",
 
         "editorSuggestWidget.background": "#1c1c1efa",
+        "editorSuggestWidget.foreground": "#c7c7cc",
+        "editorSuggestWidget.highlightForeground": "#ff453ac0",
+        "editorSuggestWidget.focusHighlightForeground": "#ff453a",
+
         "editorCodeLens.foreground": "#636366c0",
 
         "editorHoverWidget.background": "#1c1c1efa",

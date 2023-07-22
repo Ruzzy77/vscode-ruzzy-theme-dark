@@ -286,8 +286,8 @@
         "statusBarItem.hoverBackground": "#863fa980",
         "statusBarItem.prominentForeground": "#bf5af2",
         "statusBarItem.prominentBackground": "#3a3a3c",
-        "statusBarItem.remoteBackground": "#e47127",
-        "statusBarItem.remoteForeground": "#d1d1d6",
+        "statusBarItem.remoteBackground": "#18181a",
+        "statusBarItem.remoteForeground": "#c7c7cc",
 
         //////////////////////////////////////////////////////////////
 
@@ -487,6 +487,15 @@
         },
         "parameter": "#9BDDFF",
         "parameter.declaration": {
+            "fontStyle": "italic"
+        },
+
+        //* annotation
+        "annotation": "#CCC050",
+        "*.annotation": "#CCC050",
+
+        //* declaration
+        "*.declaration": {
             "fontStyle": "italic"
         },
 
@@ -3353,7 +3362,8 @@
         },
         {
             "scope": [
-                "string.quoted.docstring.multi.python"
+                "string.quoted.docstring.multi.python",
+                "string.quoted.docstring.multi.python constant.character.escape.python"
             ],
             "settings": {
                 "foreground": "#636366"

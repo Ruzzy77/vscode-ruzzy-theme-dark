@@ -9,25 +9,42 @@ Highlight colors are based on [Apple Developer](https://developer.apple.com/desi
 
 ### Interface
 
-![screenshot-interface](img/screenshots/screenshot-blue.png?raw=true)
+<!-- ![screenshot-interface](img/screenshots/screenshot-blue.png?raw=true) -->
+![screenshot-interface](https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/02c60543-7162-4260-aa53-fe35014d6144)
 
-|                                            |                                            |
+#### Git decoration
+
+<!-- ![screenshot-default-git](img/screenshots/screenshot-default-git.png?raw=true) -->
+![screenshot-default-git](https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/b23d7f6f-834a-431a-bfe4-3dbc5aad8be9)
+
+<!-- |                                            |                                            |
 | :----------------------------------------: | :----------------------------------------: |
 |  <span style="color:#7a818d">Gray</span>   |  <span style="color:#30d158">Green</span>  |
 |  ![](img/screenshots/screenshot-gray.png)  | ![](img/screenshots/screenshot-green.png)  |
 | <span style="color:#ff9f0a">Orange</span>  | <span style="color:#bf5af2">Purple</span>  |
 | ![](img/screenshots/screenshot-orange.png) | ![](img/screenshots/screenshot-purple.png) |
 |   <span style="color:#ff453a">Red</span>   | <span style="color:#ffd60a">Yellow</span>  |
-|  ![](img/screenshots/screenshot-red.png)   | ![](img/screenshots/screenshot-yellow.png) |
+|  ![](img/screenshots/screenshot-red.png)   | ![](img/screenshots/screenshot-yellow.png) | -->
+
+|                                            |                                            |
+| :----------------------------------------: | :----------------------------------------: |
+|  <span style="color:#7a818d">Gray</span>   |  <span style="color:#30d158">Green</span>  |
+|  <img width="auto" alt="screenshot-gray" src="https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/2df0dd10-42f7-4e4a-8314-fe2b94cf341a">  | <img width="auto" alt="screenshot-green" src="https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/6b19091f-02b0-48d3-93d5-077f13807dbf">  |
+| <span style="color:#ff9f0a">Orange</span>  | <span style="color:#bf5af2">Purple</span>  |
+| <img width="auto" alt="screenshot-orange" src="https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/27fd3f14-f81b-4ef9-ba9e-cc9cb02fd1f8"> | <img width="auto" alt="screenshot-purple" src="https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/e52c13fa-a0ab-4e8b-8274-98ad179e232c"> |
+|   <span style="color:#ff453a">Red</span>   | <span style="color:#ffd60a">Yellow</span>  |
+|  <img width="auto" alt="screenshot-red" src="https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/d1a5b323-94d1-4c0e-a782-18e9d52995a8">   | <img width="auto" alt="screenshot-yellow" src="https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/07acf0fb-25ed-4170-ad0c-a1933209f607"> |
 
 ### Syntax Colors
 
 <p align="left">
-	<img src="img/codes/prime.png" width="600" alt="screenshot-code-prime">
+	<!-- <img src="img/screenshots/prime.png" width="600" alt="screenshot-code-prime"> -->
+	<img src="https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/41c9ab26-2c76-4aca-862e-39f0f80422b9" width="600" alt="screenshot-code-prime">
 </p>
 
 <p align="left">
-    <img src="img/codes/stack.png" width="500" alt="screenshot-code-stack">
+    <!-- <img src="img/screenshots/stack.png" width="500" alt="screenshot-code-stack"> -->
+    <img src="https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/baa88b45-1678-434f-84e4-01be1d51722c" width="500" alt="screenshot-code-stack">
 </p>
 
 <br/>

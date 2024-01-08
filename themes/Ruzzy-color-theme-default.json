@@ -143,8 +143,8 @@
         "editorLineNumber.activeForeground": "#e5e5ea",
         "editorLineNumber.foreground": "#48484a",
 
-        "editorIndentGuide.activeBackground": "#3a3a3c",
-        "editorIndentGuide.background": "#2c2c2e54",
+        "editorIndentGuide.activeBackground1": "#3a3a3c",
+        "editorIndentGuide.background1": "#2c2c2e54",
 
         "editorRuler.foreground": "#2c2c2e54",
 

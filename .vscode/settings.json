@@ -5,10 +5,11 @@
         "**/.pnp.*": true
     },
     "cSpell.words": [
-        "peekview",
-        "Ponti",
-        "Picton",
         "Aluminium",
-        "Carbonara"
+        "Carbonara",
+        "peekview",
+        "Picton",
+        "Ponti",
+        "struct"
     ]
 }

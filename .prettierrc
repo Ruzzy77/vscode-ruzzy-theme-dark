@@ -1,60 +1,45 @@
 {
-  "tabWidth": 2,
-  "useTabs": false,
-  "endOfLine": "auto",
-  "semi": true,
-  "singleQuote": false,
-  "proseWrap": "preserve",
-  "trailingComma": "es5",
-  "bracketSameLine": true,
-  "bracketSpacing": true,
-  "arrowParens": "always",
-  "consistent": true,
+    "printWidth": 100,
+    "tabWidth": 4,
+    "endOfLine": "auto",
+    "semi": true,
+    "singleQuote": false,
+    "quoteProps": "as-needed",
+    "trailingComma": "es5",
+    "useTabs": false,
 
-  "htmlWhitespaceSensitivity": "css",
-  "jsxBracketSameLine": false,
-  "jsxSingleQuote": false,
-  "printWidth": 100,
-  "quoteProps": "as-needed",
-  "requirePragma": false,
-  "insertPragma": false,
-  "vueIndentScriptAndStyle": false,
-  "embeddedLanguageFormatting": "auto",
+    "plugins": ["prettier-plugin-multiline-arrays"],
 
-  "overrides": [
-    {
-      "files": "*.json",
-      "options": {
-        "printWidth": 30,
-        "tabWidth": 4,
-        "useTabs": false
-      }
-    },
-    {
-      "files": "*.{html,yml,yaml}",
-      "options": {
-        "printWidth": 120,
-        "tabWidth": 4,
-        "useTabs": false
-      }
-    },
-    {
-      "files": "*.{md,markdown}",
-      "options": {
-        "printWidth": 200,
-        "tabWidth": 4,
-        "useTabs": true
-      }
-    },
-    {
-      "files": "*.{js,ts,jsx,tsx}",
-      "options": {
-        "printWidth": 120,
-        "tabWidth": 2
-      }
-    }
-  ],
-  "plugins": [
-    "prettier-plugin-multiline-arrays"
-  ]
+    "overrides": [
+        {
+            "files": "*color-theme*.json",
+            "options": {
+                "parser": "json",
+                "multilineArraysWrapThreshold": -1
+            }
+        },
+        {
+            "files": [
+                "*.yml",
+                "*.yaml"
+            ],
+            "options": {
+                "tabWidth": 2,
+                "parser": "yaml"
+            }
+        },
+        {
+            "files": "*.md",
+            "options": {
+                "printWidth": 200,
+                "tabWidth": 2
+            }
+        },
+        {
+            "files": [".prettierrc"],
+            "options": {
+                "parser": "json"
+            }
+        }
+    ]
 }

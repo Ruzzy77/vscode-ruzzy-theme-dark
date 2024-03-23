@@ -6,10 +6,19 @@
     },
     "cSpell.words": [
         "Aluminium",
+        "arity",
         "Carbonara",
+        "fstring",
+        "haml",
+        "ifeq",
+        "inet",
+        "paren",
         "peekview",
         "Picton",
         "Ponti",
-        "struct"
+        "proto",
+        "struct",
+        "vcard",
+        "viml"
     ]
 }

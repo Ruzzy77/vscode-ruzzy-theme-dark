@@ -7,7 +7,7 @@
 
         "activityBar.activeBackground": "#3a3a3cbf",
         "activityBar.background": "#18181a",
-        "activityBar.foreground": "#e3e5e8",    // gray theme only
+        "activityBar.foreground": "#e3e5e8", // gray theme only
         "activityBar.inactiveForeground": "#c7c7cc",
 
         "activityBarBadge.background": "#636366",
@@ -26,7 +26,7 @@
         "menu.foreground": "#c7c7cc",
         "menu.background": "#1c1c1efa",
         "menu.selectionBackground": "#555a6380",
-        "menu.selectionForeground": "#e3e5e8",  // gray theme only
+        "menu.selectionForeground": "#e3e5e8", // gray theme only
         "menu.separatorBackground": "#454545",
         // "menu.border": "#00000000",
         // "menu.selectionBorder": "#00000000",
@@ -54,18 +54,18 @@
         //////////////////////////////////////////////////////////////
 
         "list.activeSelectionBackground": "#555a6380",
-        "list.activeSelectionForeground": "#E3E5E8",    // gray theme only
+        "list.activeSelectionForeground": "#E3E5E8", // gray theme only
 
         "list.inactiveSelectionBackground": "#3a3a3c",
         "list.inactiveSelectionForeground": "#aeaeb2",
 
         // "list.focusOutline": "#00000000",
         "list.focusBackground": "#3a3a3cbf",
-        "list.focusForeground": "#e3e5e8",  // gray theme only
+        "list.focusForeground": "#e3e5e8", // gray theme only
         "list.inactiveFocusBackground": "#2c2c2ebf",
 
-        "list.highlightForeground": "#e3e5e8",  // gray theme only
-        "list.focusHighlightForeground": "#e3e5e8",  // gray theme only
+        "list.highlightForeground": "#e3e5e8", // gray theme only
+        "list.focusHighlightForeground": "#e3e5e8", // gray theme only
 
         "list.hoverBackground": "#2c2c2ebf",
         "list.hoverForeground": "#e5e5ea",
@@ -149,9 +149,9 @@
         "editorRuler.foreground": "#2c2c2e54",
 
         "editorSuggestWidget.background": "#1c1c1efa",
-        "editorSuggestWidget.foreground": "#7a818d",    // gray theme only
-        "editorSuggestWidget.highlightForeground": "#e3e5e8bf",   // gray theme only
-        "editorSuggestWidget.focusHighlightForeground": "#e3e5e8",  // gray theme only
+        "editorSuggestWidget.foreground": "#7a818d", // gray theme only
+        "editorSuggestWidget.highlightForeground": "#e3e5e8bf", // gray theme only
+        "editorSuggestWidget.focusHighlightForeground": "#e3e5e8", // gray theme only
 
         "editorCodeLens.foreground": "#636366bf",
 
@@ -255,7 +255,7 @@
         "panelSectionHeader.foreground": "#aeaeb2",
 
         "panelTitle.activeBorder": "#00000000",
-        "panelTitle.activeForeground": "#e3e5e8",   // gray theme only
+        "panelTitle.activeForeground": "#e3e5e8", // gray theme only
         "panelTitle.inactiveForeground": "#8e8e93",
 
         //////////////////////////////////////////////////////////////
@@ -295,7 +295,7 @@
         "tab.activeBorderTop": "#7a818d",
         "tab.activeModifiedBorder": "#d1d1d6",
         // "tab.activeBackground": "#18181a",
-        "tab.activeForeground": "#e3e5e8",  // gray theme only
+        "tab.activeForeground": "#e3e5e8", // gray theme only
         "tab.unfocusedActiveForeground": "#d1d1d6",
 
         "tab.inactiveBackground": "#1c1c1e",
@@ -354,7 +354,7 @@
         "peekViewTitleDescription.foreground": "#aeaeb2",
         "peekViewResult.fileForeground": "#d1d1d6",
         "peekViewResult.lineForeground": "#aeaeb2",
-        "peekViewResult.selectionForeground": "#e3e5e8",    // gray theme only
+        "peekViewResult.selectionForeground": "#e3e5e8", // gray theme only
         "peekViewEditor.background": "#1c1c1e",
         "peekViewResult.background": "#1c1c1efa",
         // "peekViewEditor.matchHighlightBackground": "#242f25",

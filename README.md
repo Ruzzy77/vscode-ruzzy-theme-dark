@@ -9,50 +9,30 @@ Highlight colors are based on [Apple Developer](https://developer.apple.com/desi
 
 ### Interface
 
-<!-- ![screenshot-interface](img/screenshots/screenshot-blue.png?raw=true) -->
-![screenshot-interface](https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/02c60543-7162-4260-aa53-fe35014d6144)
+![screenshot-interface](img/screenshots/screenshot-blue.png?raw=true)
 
 #### Git decoration
 
-<!-- ![screenshot-default-git](img/screenshots/screenshot-default-git.png?raw=true) -->
-![screenshot-default-git](https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/b23d7f6f-834a-431a-bfe4-3dbc5aad8be9)
+![screenshot-default-git](img/screenshots/screenshot-default-git.png?raw=true)
 
-<!-- |                                            |                                            |
+|                                            |                                            |
 | :----------------------------------------: | :----------------------------------------: |
 |  <span style="color:#7a818d">Gray</span>   |  <span style="color:#30d158">Green</span>  |
 |  ![](img/screenshots/screenshot-gray.png)  | ![](img/screenshots/screenshot-green.png)  |
 | <span style="color:#ff9f0a">Orange</span>  | <span style="color:#bf5af2">Purple</span>  |
 | ![](img/screenshots/screenshot-orange.png) | ![](img/screenshots/screenshot-purple.png) |
 |   <span style="color:#ff453a">Red</span>   | <span style="color:#ffd60a">Yellow</span>  |
-|  ![](img/screenshots/screenshot-red.png)   | ![](img/screenshots/screenshot-yellow.png) | -->
-
-|                                            |                                            |
-| :----------------------------------------: | :----------------------------------------: |
-|  <span style="color:#7a818d">Gray</span>   |  <span style="color:#30d158">Green</span>  |
-|  <img width="auto" alt="screenshot-gray" src="https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/2df0dd10-42f7-4e4a-8314-fe2b94cf341a">  | <img width="auto" alt="screenshot-green" src="https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/6b19091f-02b0-48d3-93d5-077f13807dbf">  |
-| <span style="color:#ff9f0a">Orange</span>  | <span style="color:#bf5af2">Purple</span>  |
-| <img width="auto" alt="screenshot-orange" src="https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/27fd3f14-f81b-4ef9-ba9e-cc9cb02fd1f8"> | <img width="auto" alt="screenshot-purple" src="https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/e52c13fa-a0ab-4e8b-8274-98ad179e232c"> |
-|   <span style="color:#ff453a">Red</span>   | <span style="color:#ffd60a">Yellow</span>  |
-|  <img width="auto" alt="screenshot-red" src="https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/d1a5b323-94d1-4c0e-a782-18e9d52995a8">   | <img width="auto" alt="screenshot-yellow" src="https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/07acf0fb-25ed-4170-ad0c-a1933209f607"> |
+|  ![](img/screenshots/screenshot-red.png)   | ![](img/screenshots/screenshot-yellow.png) |
 
 ### Syntax Colors
 
 <p align="left">
-	<!-- <img src="img/screenshots/prime.png" width="600" alt="screenshot-code-prime"> -->
-	<img src="https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/41c9ab26-2c76-4aca-862e-39f0f80422b9" width="600" alt="screenshot-code-prime">
+	<img src="img/screenshots/prime.png" width="500" alt="screenshot-code-prime">
 </p>
 
 <p align="left">
-    <!-- <img src="img/screenshots/stack.png" width="500" alt="screenshot-code-stack"> -->
-    <img src="https://github.com/Ruzzy77/vscode-ruzzy-theme-dark/assets/19502719/baa88b45-1678-434f-84e4-01be1d51722c" width="500" alt="screenshot-code-stack">
+    <img src="img/screenshots/stack.png" width="500" alt="screenshot-code-stack">
 </p>
-
-<br/>
-
-## 📃 For more information
-
--   [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
--   [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 <br/>
 
@@ -60,7 +40,7 @@ Highlight colors are based on [Apple Developer](https://developer.apple.com/desi
 
 This theme supports semantic highlight by default
 
--   [Semantic Highlight Guide](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide)
+- [Semantic Highlight Guide](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide)
 
 ### Enabling Semantic Highlight
 
@@ -71,97 +51,97 @@ Set `true` to enable semantic highlight
 
 ### Token Colors
 
--   Based on VSCode Default Dark+ Theme
--   Based on [dark-plus-syntax](https://marketplace.visualstudio.com/items?itemName=dunstontc.dark-plus-syntax)
--   Inspired by [Dark+ Material](https://marketplace.visualstudio.com/items?itemName=vangware.dark-plus-material)
+- Based on VSCode Default Dark+ Theme
+- Based on [dark-plus-syntax](https://marketplace.visualstudio.com/items?itemName=dunstontc.dark-plus-syntax)
+- Inspired by [Dark+ Material](https://marketplace.visualstudio.com/items?itemName=vangware.dark-plus-material)
 
 <br/>
 
 ## 🎨 UI Colors
 
--   Based on [Apple Developer](https://developer.apple.com/design/human-interface-guidelines/foundations/color/)'s UI Colors
+- Based on [Apple Developer](https://developer.apple.com/design/human-interface-guidelines/foundations/color/)'s UI Colors
 
 <br/>
 
 ### Accent Colors
 
--   MacOS Blue
+- MacOS Blue
 
-     <font size=2>
+   <font size=2>
 
-    |                                                | Color     | Alpha       | Usage   |
-    | ---------------------------------------------- | --------- | ----------- | ------- |
-    | ![](https://placehold.co/20/0a84ff/0a84ff.png) | `#0a84ff` | `FF` : 100% | accent  |
-    | ![](https://placehold.co/20/075cb3/075cb3.png) | `#075cb3` | `80` : 50%  | overlay |
+  |                                                | Color     | Alpha       | Usage   |
+  | ---------------------------------------------- | --------- | ----------- | ------- |
+  | ![](https://placehold.co/20/0a84ff/0a84ff.png) | `#0a84ff` | `FF` : 100% | accent  |
+  | ![](https://placehold.co/20/075cb3/075cb3.png) | `#075cb3` | `80` : 50%  | overlay |
 
-     </font>
+   </font>
 
--   MacOS Orange
+- MacOS Orange
 
-     <font size=2>
+   <font size=2>
 
-    |                                                | Color     | Alpha       | Usage   |
-    | ---------------------------------------------- | --------- | ----------- | ------- |
-    | ![](https://placehold.co/20/ff9f0a/ff9f0a.png) | `#ff9f0a` | `FF` : 100% | accent  |
-    | ![](https://placehold.co/20/b36f07/b36f07.png) | `#b36f07` | `80` : 50%  | overlay |
+  |                                                | Color     | Alpha       | Usage   |
+  | ---------------------------------------------- | --------- | ----------- | ------- |
+  | ![](https://placehold.co/20/ff9f0a/ff9f0a.png) | `#ff9f0a` | `FF` : 100% | accent  |
+  | ![](https://placehold.co/20/b36f07/b36f07.png) | `#b36f07` | `80` : 50%  | overlay |
 
-     </font>
+   </font>
 
--   MacOS Green
+- MacOS Green
 
-     <font size=2>
+   <font size=2>
 
-    |                                                | Color     | Alpha       | Usage   |
-    | ---------------------------------------------- | --------- | ----------- | ------- |
-    | ![](https://placehold.co/20/30d158/30d158.png) | `#30d158` | `FF` : 100% | accent  |
-    | ![](https://placehold.co/20/22923e/22923e.png) | `#22923e` | `80` : 50%  | overlay |
+  |                                                | Color     | Alpha       | Usage   |
+  | ---------------------------------------------- | --------- | ----------- | ------- |
+  | ![](https://placehold.co/20/30d158/30d158.png) | `#30d158` | `FF` : 100% | accent  |
+  | ![](https://placehold.co/20/22923e/22923e.png) | `#22923e` | `80` : 50%  | overlay |
 
-     </font>
+   </font>
 
--   MacOS Purple
+- MacOS Purple
 
-     <font size=2>
+   <font size=2>
 
-    |                                                | Color     | Alpha       | Usage   |
-    | ---------------------------------------------- | --------- | ----------- | ------- |
-    | ![](https://placehold.co/20/bf5af2/bf5af2.png) | `#bf5af2` | `FF` : 100% | accent  |
-    | ![](https://placehold.co/20/863fa9/863fa9.png) | `#863fa9` | `80` : 50%  | overlay |
+  |                                                | Color     | Alpha       | Usage   |
+  | ---------------------------------------------- | --------- | ----------- | ------- |
+  | ![](https://placehold.co/20/bf5af2/bf5af2.png) | `#bf5af2` | `FF` : 100% | accent  |
+  | ![](https://placehold.co/20/863fa9/863fa9.png) | `#863fa9` | `80` : 50%  | overlay |
 
-     </font>
+   </font>
 
--   MacOS Red
+- MacOS Red
 
-     <font size=2>
+   <font size=2>
 
-    |                                                | Color     | Alpha       | Usage   |
-    | ---------------------------------------------- | --------- | ----------- | ------- |
-    | ![](https://placehold.co/20/ff453a/ff453a.png) | `#ff453a` | `FF` : 100% | accent  |
-    | ![](https://placehold.co/20/b33029/b33029.png) | `#b33029` | `80` : 50%  | overlay |
+  |                                                | Color     | Alpha       | Usage   |
+  | ---------------------------------------------- | --------- | ----------- | ------- |
+  | ![](https://placehold.co/20/ff453a/ff453a.png) | `#ff453a` | `FF` : 100% | accent  |
+  | ![](https://placehold.co/20/b33029/b33029.png) | `#b33029` | `80` : 50%  | overlay |
 
-     </font>
+   </font>
 
--   MacOS Yellow
+- MacOS Yellow
 
-     <font size=2>
+   <font size=2>
 
-    |                                                | Color     | Alpha       | Usage   |
-    | ---------------------------------------------- | --------- | ----------- | ------- |
-    | ![](https://placehold.co/20/ffd60a/ffd60a.png) | `#ffd60a` | `FF` : 100% | accent  |
-    | ![](https://placehold.co/20/b39607/b39607.png) | `#b39607` | `80` : 50%  | overlay |
+  |                                                | Color     | Alpha       | Usage   |
+  | ---------------------------------------------- | --------- | ----------- | ------- |
+  | ![](https://placehold.co/20/ffd60a/ffd60a.png) | `#ffd60a` | `FF` : 100% | accent  |
+  | ![](https://placehold.co/20/b39607/b39607.png) | `#b39607` | `80` : 50%  | overlay |
 
-     </font>
+   </font>
 
--   Gray
+- Gray
 
-     <font size=2>
+   <font size=2>
 
-    |                                                | Color     | Alpha       | Usage      |
-    | ---------------------------------------------- | --------- | ----------- | ---------- |
-    | ![](https://placehold.co/20/7a818d/7a818d.png) | `#7a818d` | `FF` : 100% | accent     |
-    | ![](https://placehold.co/20/555a63/555a63.png) | `#555a63` | `80` : 50%  | overlay    |
-    | ![](https://placehold.co/20/e3e5e8/e3e5e8.png) | `#e3e5e8` | `FF` : 100% | foreground |
+  |                                                | Color     | Alpha       | Usage      |
+  | ---------------------------------------------- | --------- | ----------- | ---------- |
+  | ![](https://placehold.co/20/7a818d/7a818d.png) | `#7a818d` | `FF` : 100% | accent     |
+  | ![](https://placehold.co/20/555a63/555a63.png) | `#555a63` | `80` : 50%  | overlay    |
+  | ![](https://placehold.co/20/e3e5e8/e3e5e8.png) | `#e3e5e8` | `FF` : 100% | foreground |
 
-     </font>
+   </font>
 
 <br/>
 
@@ -169,60 +149,60 @@ Set `true` to enable semantic highlight
 
 1. Light-Gray
 
-    <font size=2>
+   <font size=2>
 
-    |                                                | Color     | Alpha       | Usage             |
-    | ---------------------------------------------- | --------- | ----------- | ----------------- |
-    | ![](https://placehold.co/20/f2f2f7/f2f2f7.png) | `#f2f2f7` | `FF` : 100% | white             |
-    | ![](https://placehold.co/20/e5e5ea/e5e5ea.png) | `#e5e5ea` | `FF` : 100% | button foreground |
-    | ![](https://placehold.co/20/d1d1d6/d1d1d6.png) | `#d1d1d6` | `FF` : 100% | main foreground   |
-    | ![](https://placehold.co/20/c7c7cc/c7c7cc.png) | `#c7c7cc` | `FF` : 100% | text foreground   |
-    | ![](https://placehold.co/20/aeaeb2/aeaeb2.png) | `#aeaeb2` | `FF` : 100% | desc foreground   |
+   |                                                | Color     | Alpha       | Usage             |
+   | ---------------------------------------------- | --------- | ----------- | ----------------- |
+   | ![](https://placehold.co/20/f2f2f7/f2f2f7.png) | `#f2f2f7` | `FF` : 100% | white             |
+   | ![](https://placehold.co/20/e5e5ea/e5e5ea.png) | `#e5e5ea` | `FF` : 100% | button foreground |
+   | ![](https://placehold.co/20/d1d1d6/d1d1d6.png) | `#d1d1d6` | `FF` : 100% | main foreground   |
+   | ![](https://placehold.co/20/c7c7cc/c7c7cc.png) | `#c7c7cc` | `FF` : 100% | text foreground   |
+   | ![](https://placehold.co/20/aeaeb2/aeaeb2.png) | `#aeaeb2` | `FF` : 100% | desc foreground   |
 
-    </font>
+   </font>
 
 2. Neutral-Gray
 
-    <font size=2>
+   <font size=2>
 
-    |                                                | Color     | Alpha       | Usage               |
-    | ---------------------------------------------- | --------- | ----------- | ------------------- |
-    | ![](https://placehold.co/20/8e8e93/8e8e93.png) | `#8e8e93` | `FF` : 100% | inactive foreground |
+   |                                                | Color     | Alpha       | Usage               |
+   | ---------------------------------------------- | --------- | ----------- | ------------------- |
+   | ![](https://placehold.co/20/8e8e93/8e8e93.png) | `#8e8e93` | `FF` : 100% | inactive foreground |
 
-    </font>
+   </font>
 
 3. Dark-Gray
 
-    <font size=2>
+   <font size=2>
 
-    |                                            | Color     | Alpha       | Usage                           |
-    | ------------------------------------------ | --------- | ----------- | ------------------------------- |
-    | ![](https://placehold.co/20/636366/636366) | `#636366` | `FF` : 100% | border                          |
-    | ![](https://placehold.co/20/636366/636366) | `#636366` | `BF` : 75%  | hover (translucent)             |
-    | ![](https://placehold.co/20/48484a/48484a) | `#48484a` | `FF` : 100% | selection / dark border         |
-    | ![](https://placehold.co/20/48484a/48484a) | `#48484a` | `BF` : 75%  | selection bg (translucent)      |
-    | ![](https://placehold.co/20/3a3a3c/3a3a3c) | `#3a3a3c` | `BF` : 75%  | dark selection bg (translucent) |
-    | ![](https://placehold.co/20/3a3a3c/3a3a3c) | `#3a3a3c` | `FF` : 100% | dark selection background       |
-    | ![](https://placehold.co/20/2c2c2e/2c2c2e) | `#2c2c2e` | `54` : 33%  | rulers (low contrast)           |
-    | ![](https://placehold.co/20/2c2c2e/2c2c2e) | `#2c2c2e` | `BF` : 75%  | widget background (glass)       |
-    | ![](https://placehold.co/20/1c1c1e/1c1c1e) | `#1c1c1e` | `FA` : 98%  | widget background (translucent) |
-    | ![](https://placehold.co/20/1c1c1e/1c1c1e) | `#1c1c1e` | `FF` : 100% | editor background               |
-    | ![](https://placehold.co/20/18181a/18181a) | `#18181a` | `FF` : 100% | ui background                   |
+   |                                            | Color     | Alpha       | Usage                           |
+   | ------------------------------------------ | --------- | ----------- | ------------------------------- |
+   | ![](https://placehold.co/20/636366/636366) | `#636366` | `FF` : 100% | border                          |
+   | ![](https://placehold.co/20/636366/636366) | `#636366` | `BF` : 75%  | hover (translucent)             |
+   | ![](https://placehold.co/20/48484a/48484a) | `#48484a` | `FF` : 100% | selection / dark border         |
+   | ![](https://placehold.co/20/48484a/48484a) | `#48484a` | `BF` : 75%  | selection bg (translucent)      |
+   | ![](https://placehold.co/20/3a3a3c/3a3a3c) | `#3a3a3c` | `BF` : 75%  | dark selection bg (translucent) |
+   | ![](https://placehold.co/20/3a3a3c/3a3a3c) | `#3a3a3c` | `FF` : 100% | dark selection background       |
+   | ![](https://placehold.co/20/2c2c2e/2c2c2e) | `#2c2c2e` | `54` : 33%  | rulers (low contrast)           |
+   | ![](https://placehold.co/20/2c2c2e/2c2c2e) | `#2c2c2e` | `BF` : 75%  | widget background (glass)       |
+   | ![](https://placehold.co/20/1c1c1e/1c1c1e) | `#1c1c1e` | `FA` : 98%  | widget background (translucent) |
+   | ![](https://placehold.co/20/1c1c1e/1c1c1e) | `#1c1c1e` | `FF` : 100% | editor background               |
+   | ![](https://placehold.co/20/18181a/18181a) | `#18181a` | `FF` : 100% | ui background                   |
 
-    </font>
+   </font>
 
 4. Transparent
 
-    <font size=2>
+   <font size=2>
 
-    | Color     | Alpha      | Usage          |
-    | --------- | ---------- | -------------- |
-    | `#000000` | `00` : 0%  | transparent    |
-    | `#000000` | `1A` : 10% | transparent bg |
-    | `#000000` | `66` : 40% | unnecessary    |
-    | `#000000` | `80` : 50% | shadow         |
+   | Color     | Alpha      | Usage          |
+   | --------- | ---------- | -------------- |
+   | `#000000` | `00` : 0%  | transparent    |
+   | `#000000` | `1A` : 10% | transparent bg |
+   | `#000000` | `66` : 40% | unnecessary    |
+   | `#000000` | `80` : 50% | shadow         |
 
-    </font>
+   </font>
 
 <br/>
 
